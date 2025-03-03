@@ -1,0 +1,134 @@
+{
+    "meta-title": "HEIC 转 PDF - 在线免费将 HEIC 转换为 PDF",
+    "meta-description": "免费在线将 HEIC 转换为 PDF。立即将单个或多个 HEIC 图像转换为高质量 PDF 文档。100% 安全且快速。无需注册。",
+    "h1": "HEIC 转 PDF 转换器",
+    "description": "免费在线将 HEIC 转换为 PDF。使用我们安全快速的转换器将您的 HEIC 图像转换为专业的 PDF 文档。无需注册。",
+    "cta": {
+      "title": "立即将 HEIC 转换为 PDF",
+      "description": "快速、免费且安全的方式将您的 HEIC 图像转换为专业的 PDF 文档。非常适合从您的 iPhone 或 iPad 照片创建文档、报告和演示文稿。",
+      "button": "开始转换",
+      "quote": "您的隐私很重要 - 我们绝不会存储您的文件。"
+    },
+    "faq": {
+      "title": "关于 HEIC 转 PDF 转换器的常见问题解答",
+      "description": "以下是关于我们的 HEIC 转 PDF 转换服务的一些最常见问题。",
+      "questions": {
+        "question1": {
+          "title": "为什么要将 HEIC 转换为 PDF？",
+          "text": "将 HEIC 转换为 PDF 具有众多优势。PDF 具有通用兼容性，保持高图像质量，并且是专业文档的理想选择。HEIC 转 PDF 转换对于需要将多个 HEIC 照片合并到单个 PDF 中、创建可打印文件或以广泛接受的格式共享图像以用于工作或学校的 iPhone 用户特别有用。"
+        },
+        "question2": {
+          "title": "HEIC 转 PDF 转换器如何工作？",
+          "text": "我们的 HEIC 转 PDF 转换器使用尖端技术将您的 HEIC 图像转换为高质量的 PDF 文档。只需上传您的 HEIC 文件，我们的工具就会立即处理它们，在为 PDF 格式进行优化的同时保留原始质量。轻松转换单个 HEIC 图像或将多个图像合并到一个 PDF 中。"
+        },
+        "question3": {
+          "title": "这个 HEIC 转 PDF 转换器可以完全免费使用吗？",
+          "text": "是的，我们的 HEIC 转 PDF 转换器 100% 免费，没有任何隐藏费用。将无限数量的 HEIC 图像转换为 PDF 格式，无需注册。没有每日限制或高级订阅要求，使其成为个人和专业 HEIC 转 PDF 转换的绝佳选择。"
+        },
+        "question4": {
+          "title": "HEIC 转 PDF 转换的最大文件大小是多少？",
+          "text": "对单个 HEIC 文件大小没有严格的限制，但总的批量上传限制为 100MB。这确保您可以同时将多个 HEIC 文件转换为 PDF，同时在生成的 PDF 文档中保持最佳性能和质量。"
+        },
+        "question5": {
+          "title": "使用您的 HEIC 转 PDF 转换器安全吗？",
+          "text": "绝对安全！我们的 HEIC 转 PDF 转换器优先考虑您的隐私和安全。我们使用加密的 HTTPS 连接，并且永远不会存储您上传的 HEIC 文件。在您下载 PDF 并退出网站后，所有数据都会从我们的服务器上擦除，从而保证完全保密。"
+        },
+        "question6": {
+          "title": "我可以将多个 HEIC 文件合并到一个 PDF 中吗？",
+          "text": "是的，我们的 HEIC 转 PDF 工具支持批量处理，让您可以将多个 HEIC 文件合并到一个 PDF 文档中。在转换之前，自定义页面顺序、方向和布局。这非常适合从您的 HEIC 照片创建多页 PDF、作品集或演示文稿。"
+        },
+        "question7": {
+          "title": "哪些设备和浏览器可以使用您的 HEIC 转 PDF 转换器？",
+          "text": "我们的 HEIC 转 PDF 转换器与所有现代设备和浏览器完全兼容。无论您使用的是 iOS、Android、Windows 还是 Mac，它都可以在 Chrome、Safari、Firefox 和 Edge 上无缝运行。无需软件 - 只需访问我们的网站并开始将 HEIC 转换为 PDF。"
+        },
+        "question8": {
+          "title": "PDF 质量与原始 HEIC 相比如何？",
+          "text": "我们的 HEIC 转 PDF 转换器在为 PDF 格式进行优化的同时保留了原始图像质量。您的 PDF 将保留 HEIC 图像的分辨率、颜色和细节，提供适合打印或数字共享的专业级输出。"
+        },
+        "question9": {
+          "title": "HEIC 转 PDF 转换需要多长时间？",
+          "text": "HEIC 转 PDF 转换非常快。上传您的 HEIC 文件，我们的高级系统会在几秒钟内将其处理成 PDF。较大的文件或批量转换可能需要更长的时间，但仍然非常快。"
+        },
+        "question10": {
+          "title": "我可以自定义 PDF 输出吗？",
+          "text": "是的，我们的 HEIC 转 PDF 转换器提供了自定义选项。在将您的 HEIC 图像转换为 PDF 格式以获得量身定制的结果之前，调整页面方向（纵向或横向）、设置边距和选择页面大小（A4、Letter 等）。"
+        },
+        "question11": {
+          "title": "您是否为 HEIC 转 PDF 转换提供 API？",
+          "text": "目前，我们不提供用于 HEIC 转 PDF 转换的公共 API，但我们正在探索此选项，以供将来需要自动化 HEIC 转 PDF 解决方案的开发人员和企业使用。"
+        }
+      }
+    },
+    "howto": {
+      "title": "如何使用我们的在线工具将 HEIC 转换为 PDF",
+      "description": "按照此简单指南将您的 HEIC 图像转换为 PDF 格式。这些步骤适用于移动设备和桌面设备，以获得流畅的 HEIC 转 PDF 体验。",
+      "steps": {
+        "step1": {
+          "title": "打开 HEIC 转 PDF 转换器",
+          "text": "点击页面顶部的“转换为 PDF”按钮访问我们的 HEIC 转 PDF 转换器。"
+        },
+        "step2": {
+          "title": "选择您的 HEIC 文件",
+          "text": "点击“选择文件”并选择您要转换为 PDF 的 HEIC 图像。选择多个文件以进行批量转换或合并到单个 PDF 文档中。"
+        },
+        "step3": {
+          "title": "排列您的 HEIC 文件",
+          "text": "对于多个 HEIC 文件，根据需要重新排序它们以用于您的 PDF。拖放以调整页面顺序或删除您不希望在 HEIC 转 PDF 转换中使用的任何文件。"
+        },
+        "step4": {
+          "title": "开始转换过程",
+          "text": "点击“转换为 PDF”按钮以启动 HEIC 转 PDF 转换。我们的工具处理每个图像，确保最终 PDF 的高质量输出。"
+        },
+        "step5": {
+          "title": "下载您的 PDF",
+          "text": "转换后，点击“下载”以保存您的新 PDF。先预览它以确认您的 HEIC 转 PDF 结果完全符合您的期望。"
+        }
+      }
+    },
+    "features": {
+      "title": "我们的 HEIC 转 PDF 转换器的主要功能",
+      "description": "使用这些为 HEIC 转 PDF 转换量身定制的强大功能，将您的 HEIC 图像转换为专业的 PDF 文档。",
+      "features": {
+        "feature1": {
+          "title": "多页 PDF 创建",
+          "description": "将多个 HEIC 图像合并到单个、经过润色的 PDF 文档中，并可调整页面顺序和布局。"
+        },
+        "feature2": {
+          "title": "闪电般快速的处理速度",
+          "description": "由高级服务器驱动的快速 HEIC 转 PDF 转换，可实现快速高效的文档生成。"
+        },
+        "feature3": {
+          "title": "100% 安全可靠",
+          "description": "无需注册，无需文件存储，并且完全免费的 HEIC 转 PDF 服务。您的隐私和安全至上。"
+        },
+        "feature4": {
+          "title": "跨平台支持",
+          "description": "在任何设备或浏览器上将 HEIC 转换为 PDF — 无需安装软件即可无缝访问。"
+        },
+        "feature5": {
+          "title": "质量保留",
+          "description": "在 HEIC 转 PDF 转换期间保持原始 HEIC 图像质量不变，以实现专业级的 PDF。"
+        },
+        "feature6": {
+          "title": "慷慨的文件支持",
+          "description": "处理多个 HEIC 文件，总上传大小高达 100MB，非常适合全面的 HEIC 转 PDF 文档。"
+        }
+      }
+    },
+    "footer": {
+      "about": "使用我们免费的在线转换器立即将 HEIC 转换为 PDF。",
+      "tools": "文档工具",
+      "resources": "资源",
+      "tos": "服务条款",
+      "privacy": "隐私政策",
+      "copyright": "© HEIC TO PDF - 轻松将 HEIC 转换为 PDF",
+      "copyright-suffix": "版权所有。"
+    },
+    "input": {
+      "placeholder": "将 HEIC 文件拖放到此处或点击上传",
+      "button": "上传文件",
+      "clear-button": "清除队列",
+      "download-button": "下载 PDF",
+      "download-all-button": "下载所有 PDF"
+    }
+  }

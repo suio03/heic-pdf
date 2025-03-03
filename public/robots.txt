@@ -1,0 +1,8 @@
+# *
+User-agent: *
+Allow: *
+Disallow: /_next/
+# Host
+Host: https://heic2pdf.app/
+# Sitemaps
+Sitemap: https://heic2pdf.app/sitemap.xml
