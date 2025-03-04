@@ -3,9 +3,9 @@ import Script from 'next/script'
 const Analytics = () => (
     <>
         {/* google analytics */}
-        {/* <Script
+        <Script
             async
-            src="https://www.googletagmanager.com/gtag/js?id=G-69C1SS4MWF"
+            src="https://www.googletagmanager.com/gtag/js?id=G-E8RSB35EQ1"
         />
 
 
@@ -17,7 +17,7 @@ const Analytics = () => (
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
 
-                gtag('config', 'G-69C1SS4MWF');
+                gtag('config', 'G-E8RSB35EQ1');
                 `,
             }}
         />
@@ -30,10 +30,10 @@ const Analytics = () => (
                     c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
                     t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
                     y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-                })(window, document, "clarity", "script", "prlszvagr6");
+                })(window, document, "clarity", "script", "qj035dhh3a");
         `
             }}
-        /> */}
+        />
         <Script
             defer
             data-domain="heic2pdf.app"
